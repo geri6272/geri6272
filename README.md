@@ -3,10 +3,10 @@
 <!-- Animated wave header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gerg%C5%91%20Greksa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20" />
 
-<!-- Animated typing - fixed width -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=435&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;18y%2Fo+IT+Student+%7C+Hungary+%F0%9F%87%AD%F0%9F%87%BA;Available+for+Freelance+%E2%9A%A1;Building+fast+scalable+web+apps)](https://git.io/typing-svg)
+<!-- Animated typing - using img tag to avoid GitHub clipping -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;18y%2Fo+IT+Student+%7C+Hungary+%F0%9F%87%AD%F0%9F%87%BA;Available+for+Freelance+%E2%9A%A1;Building+fast+scalable+web+apps" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-geri7262.hu-blue?style=for-the-badge&logo=vercel)](https://geri7262.hu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerg%C5%91_Greksa-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gerg%C5%91-greksa-a21b853b4/)
@@ -14,8 +14,12 @@
 
 <br/>
 
-<!-- Stylish hits counter - shows today / total visits with unique design -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeri6272%2Fgeri6272&count_bg=%2358A6FF&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=%F0%9F%91%81+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- Stylish hits counter - dark title / blue count, shows today/total -->
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeri6272%2Fgeri6272&count_bg=%2358A6FF&title_bg=%230D1117&icon=eye&icon_color=%2358A6FF&title=%F0%9F%91%81+Profile+Views&edge_flat=false" alt="Visitor Counter" />
+</a>
+
+<br/><br/>
 
 **⚡ Available for freelance work ⚡**
 
@@ -70,13 +74,13 @@ const geri = {
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geri6272&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geri6272&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=geri6272&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=geri6272&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -129,7 +133,6 @@ const geri = {
 
 *"Your vision, flawlessly executed."*
 
-<!-- Animated wave footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
