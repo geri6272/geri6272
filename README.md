@@ -5,8 +5,8 @@
 
 </div>
 
-<!-- Typing SVG must be outside HTML block to render correctly on GitHub -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;18y%2Fo+IT+Student+%7C+Hungary+%F0%9F%87%AD%F0%9F%87%BA;Available+for+Freelance+%E2%9A%A1;Building+fast+scalable+web+apps)](https://git.io/typing-svg)
+<!-- Typing animation: short lines + small font to fit GitHub's proxy width -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=380&lines=Full+Stack+Dev+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js;Hungary+%F0%9F%87%AD%F0%9F%87%BA+%7C+Freelance+%E2%9A%A1;3%2B+yrs+coding+%7C+IT+Student)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -16,8 +16,8 @@
 
 <br/>
 
-<!-- Visitor counter: plastic style = unique 3D raised look, different from flat badges -->
-![Visitor Counter](https://komarev.com/ghpvc/?username=geri6272&style=plastic&color=58A6FF&label=%F0%9F%91%81+PROFILE+VIEWS)
+<!-- Plastic-style visitor counter: 3D raised look, blue count, dark label -->
+![Profile Views](https://komarev.com/ghpvc/?username=geri6272&style=plastic&color=58A6FF&label=%F0%9F%91%81+PROFILE+VIEWS)
 
 **⚡ Available for freelance work ⚡**
 
