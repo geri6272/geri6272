@@ -132,3 +132,16 @@ const geri = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
+
+
+---
+
+## 🐍 Snake Game
+
+<div align="center">
+
+> **Watch the snake eat my contribution graph!** 🎮
+
+![Snake animation](https://raw.githubusercontent.com/geri6272/geri6272/output/github-contribution-grid-snake-dark.svg)
+
+</div>
